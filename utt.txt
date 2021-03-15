@@ -1,0 +1,26 @@
+<div class="card-group">
+    <div class="card">
+      <img class="card-img-top" src="/img/coffee-Arabaic.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Arabica Coffee</h5>
+        <p class="card-text">Arabica Coffee is one of the most popular and expensive types of coffee, and it is typically for black coffee.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+    <div class="card">
+      <img class="card-img-top" src="/img/coffee-expresso.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Espresso Coffee</h5>
+        <p class="card-text">An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+    <div class="card">
+      <img class="card-img-top" src="/img/coffee-Cappuccino.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Cappuccino Coffee</h5>
+        <p class="card-text">Made with a lot of foam and some sprinkle of black cocoa powder. Can be used with milk or cream.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+  </div>
