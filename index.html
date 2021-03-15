@@ -17,7 +17,14 @@
   <body>
    
    
-
+<p class="player">Player 1</p>
+<script>const para=document.querySelector("player");
+para.addEventListener('click',updateName);
+function updateName(){
+  let name=prompt('Enter a new name');
+  para.textContent='Player 1'+name;
+}
+</script>
     <nav class="site-header sticky-top py-1">
         <div class="container d-flex flex-column flex-md-row justify-content-between">
           <a class="py-2" href="#">
